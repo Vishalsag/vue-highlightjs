@@ -1,5 +1,5 @@
 {
-  "name": "vue-highlightjs",
+  "name": "vue2-highlightjs",
   "version": "1.3.3",
   "description": "Syntax highlighting with highlight.js for Vue.js 2.x",
   "homepage": "https://github.com/metachris/vue-highlightjs",
