@@ -1,6 +1,6 @@
 'use strict';
 
-var hljs = require('highlight.js');
+var hljs = require('highlight.js/lib/core.js');
 // import hljs from 'highlight.js';
 
 var vueHighlightJS = {};
