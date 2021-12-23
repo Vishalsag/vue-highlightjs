@@ -1,4 +1,5 @@
-# vue-highlightjs
+# vue2-highlightjs
+I created this as other versions are not compatible or broke and wanted minimalist package size.
 
 ## Quickstart
 
